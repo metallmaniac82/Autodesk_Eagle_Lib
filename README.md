@@ -3,8 +3,7 @@ New or modified component libraries for Autodesk Eagle
 
 <b>Hirose connectors:<br></b>
 
-<style> td { border: 2px solid blue; } </style>
-<!-- blue frame for cells in css -->
+
 
 <table>
    <tr border: 2px solid blue>
