@@ -7,11 +7,11 @@ New or modified component libraries for Autodesk Eagle
 <!-- blue frame for cells in css -->
 
 <table>
-   <tr>
+   <tr border: 2px solid blue>
       <th>lib:</th> 
       <th>datasheet:</th>
    </tr>
-  <tr>
+   <tr border: 2px solid blue>
       <td>con-hoirose-fh36-series.lbr</td> 
       <td>FH36_Catalog_D49359_en.pdf</td>
    </tr>
