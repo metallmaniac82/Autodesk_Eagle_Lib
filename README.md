@@ -23,7 +23,7 @@ New or modified component libraries for Autodesk Eagle
       <td>50376-xxxxx-xxx-aces rev-Q .pdf</td>
    </tr>
       <tr>
-      <td>con-aces-50499-series</td> 
+      <td>con-aces-50499-series.lbr</td> 
       <td>50499-xxxxx-xxx-aces rev-A.pdf</td>
    </tr>
 </table>
