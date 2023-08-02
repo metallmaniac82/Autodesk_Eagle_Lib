@@ -14,8 +14,16 @@ New or modified component libraries for Autodesk Eagle
       <td>con-hoirose-fh36-series.lbr</td> 
       <td>FH36_Catalog_D49359_en.pdf</td>
    </tr>
-      <tr>
+   <tr>
       <td>con-aces-50208-series.lbr</td> 
       <td>50208-xxxxx-xxx-aces rev-W.pdf</td>
+   </tr>
+   <tr>
+      <td>con-aces-50376-series.lbr</td> 
+      <td>50376-xxxxx-xxx-aces rev-Q .pdf</td>
+   </tr>
+      <tr>
+      <td>con-aces-50499-series</td> 
+      <td>50499-xxxxx-xxx-aces rev-A.pdf</td>
    </tr>
 </table>
