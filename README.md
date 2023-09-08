@@ -22,8 +22,28 @@ New or modified component libraries for Autodesk Eagle
       <td>con-aces-50376-series.lbr</td> 
       <td>DATASHEETS->ACES->50376-xxxxx-xxx-aces rev-Q .pdf</td>
    </tr>
-      <tr>
+   <tr>
       <td>con-aces-50499-series.lbr</td> 
       <td>DATASHEETS->ACES->50499-xxxxx-xxx-aces rev-A.pdf</td>
    </tr>
+   <tr>
+      <td>con-aces-50223-series.lbr</td> 
+      <td>DATASHEETS->ACES->50223-xxxxx-xxx-aces rev-A.pdf</td>
+   </tr>
+   <tr>
+      <td>con-aces-50224-series.lbr</td> 
+      <td>DATASHEETS->ACES->50224-xxxxx-xxx-aces_rev-L.pdf</td>
+   </tr>   
+   <tr>
+      <td>con-aces-50238-series.lbr</td> 
+      <td>DATASHEETS->ACES->50238-xxxxx-xxx-aces_rev-N.pdf</td>
+   </tr>   
+   <tr>
+      <td>con-aces-50246-series.lbr</td> 
+      <td>DATASHEETS->ACES->50246-xxxxx-xxx-aces rev-C.pdf</td>
+   </tr>    
+   <tr>
+      <td>con-aces-50281-series.lbr</td> 
+      <td>DATASHEETS->ACES->50281-xxxxx-xxx-aces rev-F.pdf</td>
+   </tr>       
 </table>
